@@ -1,5 +1,5 @@
 [package]
-name = "my-llm-lib"
+name = "sunday_llm"
 version = "0.1.0"
 edition = "2024"
 
