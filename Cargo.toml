@@ -1,5 +1,5 @@
 [package]
-name = "sunday_llm"
+name = "sunday-llm"
 version = "0.1.0"
 edition = "2024"
 
